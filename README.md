@@ -22,9 +22,15 @@
 
 ---
 
+## 🌐 Website
+
+[![Website](https://img.shields.io/badge/Website-NebulonProject.com-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nebulonproject.com/)
+
+---
+
 ## 📊 GitHub Stats
 
-![trxiuss GitHub Stats](https://github-readme-stats.vercel.app/api?username=trxiuss&show_icons=true&count_private=true&theme=tokyonight)  
+![trxiuss GitHub stats](https://github-readme-stats.vercel.app/api?username=trxiuss&show_icons=true&count_private=true&theme=tokyonight&hide=prs,issues)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trxiuss&layout=compact&theme=tokyonight)
 
