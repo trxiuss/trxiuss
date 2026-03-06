@@ -1,6 +1,6 @@
 # Hi 👋 I'm trxiuss
 
-## <big>🚀 Passionate about software, server development, and Minecraft & Discord projects</big>
+### Passionate about software, server development, web development, and Minecraft & Discord projects
 
 ---
 
@@ -22,9 +22,11 @@
 
 ---
 
-## ✨ Fun & Animations
+## 📊 GitHub Stats
 
-![Trxiuss Animated Badge](https://img.shields.io/badge/Trxiuss-🚀_Coding_in_Progress-ff69b4?style=for-the-badge&logo=github&logoColor=white)  
+![trxiuss GitHub Stats](https://github-readme-stats.vercel.app/api?username=trxiuss&show_icons=true&count_private=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trxiuss&layout=compact&theme=tokyonight)
 
 ---
 
