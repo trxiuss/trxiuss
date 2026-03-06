@@ -25,15 +25,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trxiuss&show_icons=true&count_private=true&theme=tokyonight" alt="trxiuss GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxiuss&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://camo.githubusercontent.com/546146e3cedd0b99a3bad1ef7fba92cf40263ce2d8061c06437eeadaee22c5ba/68747470733a2f2f6769746875622d726561646d652d73746174732d6d752d64756e2d38392e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f6e757272726b266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d33267468656d653d64726163756c6126686964655f7469746c653d7472756526686964655f626f726465723d74727565" alt="trxiuss GitHub Stats" />
 </p>
 
 ---
 
 ## 🌐 Connect with me
 
-[![Discord](https://img.shields.io/badge/Discord-Ghost-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/868430294993219604)
-[![Website](https://img.shields.io/badge/Website-NebulonProject.com-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nebulonproject.com/)
-[![Server](https://img.shields.io/badge/Server-NebulonProject-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/H7RMcAMFeZ)
+<p align="center">
+  <a href="https://discord.com/users/868430294993219604"><img src="https://img.shields.io/badge/Discord-Ghost-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/invite/H7RMcAMFeZ"><img src="https://img.shields.io/badge/Server-NebulonProject-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Server" /></a>
+  <a href="https://nebulonproject.com/"><img src="https://img.shields.io/badge/Website-NebulonProject.com-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
