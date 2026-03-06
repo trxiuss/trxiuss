@@ -1,6 +1,5 @@
-# Hi 👋
+# Hi 👋 I'm trxiuss
 
-## <big>I'm trxiuss</big>  
 ### <big>🚀 Passionate about software, server development, and Minecraft & Discord projects</big>
 
 ---
