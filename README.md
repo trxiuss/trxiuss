@@ -1,7 +1,7 @@
-# Hi 👋 I'm trxiuss
+# Hi 👋
 
-🚀 Yazılım ve server geliştirme ile ilgileniyorum  
-🎮 Minecraft ve Discord bot projeleri üzerinde çalışıyorum  
+## <big>I'm trxiuss</big>  
+### <big>🚀 Passionate about software, server development, and Minecraft & Discord projects</big>
 
 ---
 
@@ -33,4 +33,4 @@
 
 ## 📫 Connect with me
 
-[![Discord](https://img.shields.io/badge/Discord-trxiuss-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/Discord-Ghost-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/868430294993219604)
