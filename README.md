@@ -22,7 +22,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trxiuss&show_icons=true&count_private=true&theme=tokyonight" alt="trxiuss GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trxiuss&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
 ## 🌐 Connect with me
 
 [![Discord](https://img.shields.io/badge/Discord-Ghost-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/868430294993219604)
 [![Website](https://img.shields.io/badge/Website-NebulonProject.com-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nebulonproject.com/)
+[![Server](https://img.shields.io/badge/Server-NebulonProject-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/H7RMcAMFeZ)
