@@ -36,6 +36,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/868430294993219604"><img src="https://img.shields.io/badge/Discord-Ghost-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://discord.com/invite/H7RMcAMFeZ"><img src="https://img.shields.io/badge/Server-NebulonProject-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Server" /></a>
+  <a href="https://discord.gg/62TzJBpm6C "><img src="https://img.shields.io/badge/Server-NebulonProject-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Server" /></a>
   <a href="https://nebulonproject.com/"><img src="https://img.shields.io/badge/Website-NebulonProject.com-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
